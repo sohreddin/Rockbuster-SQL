@@ -1,4 +1,4 @@
-# Rockbuster-SQL
+# Rockbuster SQL Project
 Rockbuster Stealth LLC is a movie rental company that used to have locations all over the world. To compete with streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team intends to use its existing movie licenses to develop an online video rental service.
 
 # Objective

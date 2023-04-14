@@ -8,3 +8,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 The data is provided by CareerFoundry and is available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 View the project Viz's [here](https://public.tableau.com/app/profile/s.hreddin/viz/RocbusterStealthLLC_16719003383450/Story1).
+
+# Tools
+For this project, the following tools were used:
+- Excel
+- PostgreSQL
+- Tableau
